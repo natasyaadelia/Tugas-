@@ -1,4 +1,3 @@
-# Tugas-
 # MODUL-PBO
 # Hasil Latihan Aritmatika
 #![AlteText](https://github.com/natasyaadelia/MODUL-PBO/blob/master/Aritmatika.png "Hasil satu")
